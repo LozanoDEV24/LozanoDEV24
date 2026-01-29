@@ -6,6 +6,8 @@
 🌐 https://alozano.inscastellbisbal.net
 -  Linkedin
 💼 https://www.linkedin.com/in/andr%C3%A9s-lozano-picado-098039353/
+-  TryHackMe Profile
+🔐 https://tryhackme.com/p/L0Zano
 
 
 ## About Me
