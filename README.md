@@ -1,6 +1,13 @@
 ## Hello, i am Andrés Lozano
 <img src="https://tryhackme-badges.s3.amazonaws.com/L0Zano.png" alt="Your Image Badge" />
 
+# My links
+-  Website
+🌐 https://alozano.inscastellbisbal.net
+-  Linkedin
+💼 https://www.linkedin.com/in/andr%C3%A9s-lozano-picado-098039353/
+
+
 # About Me
 -  💼 Currently studing cybersecurity at TryHackMe and Netacad.
 -  🎓 Pursuing in cybersecurity to start working as Jr Pentester.
