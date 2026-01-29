@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hello, i am Andrés Lozano
+<img src="https://tryhackme-badges.s3.amazonaws.com/L0Zano.png" alt="Your Image Badge" />
 
-<!--
-**LozanoDEV24/LozanoDEV24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+-  💼 Currently studing cybersecurity at TryHackMe and Netacad.
+-  🎓 Pursuing in cybersecurity to start working as Jr Pentester.
+-  🏆 Developing tools to make more efficient pentesting tasks and personal IT projects.
+-  🌟 Offering security solutions in little-medium companies.
+-  🌱 Passionate about continuous learning and staying updated with cybersecurity trends and technologies.
+-  📫 How to reach me: andreslozanopicado@gmail.com
 
-Here are some ideas to get you started:
+## Certifications of completion (TryHackMe)
+-  🛡️ Pre Security 
+-  🔐 Cyber Security 101
+-  🧰 Jr Penetration Tester
+-  🌐 Web Fundamentals
+-  🎄 Advent Of Cyber 2025
+-  🧠 SOC Level 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools that i use:
+-  🔍 Nmap
+-  🦈 Wireshark
+-  🔑 Hydra
+-  📂 Gobuster
+-  🧪 Burpsuite
+-  💣 Metasploit
+-  🔓 John The Ripper
+-  🗄️ SQL Map
+-  📡 Netcat
+-  🎭 Social Engineering Toolkit (SET)
+
+# OS
+-  💻 Windows (7/10/11)
+-  🐧 Linux (Debian/Rocky/Ubuntu/Mint)
+
+## Professional certifications
