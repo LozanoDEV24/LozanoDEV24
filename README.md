@@ -9,6 +9,9 @@
 -  🌱 Passionate about continuous learning and staying updated with cybersecurity trends and technologies.
 -  📫 How to reach me: andreslozanopicado@gmail.com
 
+## Professional certifications
+-  Soon...
+
 ## Certifications of completion (TryHackMe)
 -  🛡️ Pre Security 
 -  🔐 Cyber Security 101
@@ -32,5 +35,3 @@
 # OS
 -  💻 Windows (7/10/11)
 -  🐧 Linux (Debian/Rocky/Ubuntu/Mint)
-
-## Professional certifications
