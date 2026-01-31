@@ -19,7 +19,7 @@
 -  📫 How to reach me: andreslozanopicado@gmail.com
 
 ## Professional certifications
--  Soon...
+-  Cyber Security 101 (SEC1)
 
 ## Certifications of completion (TryHackMe)
 -  🛡️ Pre Security 
