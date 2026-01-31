@@ -20,6 +20,7 @@
 
 ## Professional certifications
 -  Cyber Security 101 (SEC1)
+-  
 
 ## Certifications of completion (TryHackMe)
 -  🛡️ Pre Security 
