@@ -1,6 +1,6 @@
 # Hello, i am Andrés Lozano
 <img src="https://tryhackme-badges.s3.amazonaws.com/L0Zano.png" alt="Your Image Badge" />
-Top 1% (8851)
+Top 1%
 
 ## My links
 -  Website
